@@ -1,0 +1,11 @@
+lexicon_a,lexicon_b,n_a,n_b,n_intersection,jaccard
+love_and_desire,physical_desire,55,52,52,0.9454545454545454
+lesbian_love,love,14,7,7,0.5
+lesbian_love,sapphism,14,7,7,0.5
+love,love_and_desire,7,55,7,0.12727272727272726
+lesbian_love,love_and_desire,14,55,7,0.11290322580645161
+love,physical_desire,7,52,4,0.07272727272727272
+lesbian_love,physical_desire,14,52,4,0.06451612903225806
+love,sapphism,7,7,0,0.0
+love_and_desire,sapphism,55,7,0,0.0
+physical_desire,sapphism,52,7,0,0.0

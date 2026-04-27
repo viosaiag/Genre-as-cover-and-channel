@@ -1,0 +1,2 @@
+lexicon,n_chunks_poetry,n_chunks_prose,n_total_poetry,n_total_prose,share_corpus_poetry_retained,share_corpus_prose_retained,chi2,p_value,dof,js_divergence,n_topics_compared
+lesbian_love,912,6677,1221,14607,0.7469287469287469,0.45710960498391184,2690.7839444760994,0.0,366,0.7026007727276734,367
