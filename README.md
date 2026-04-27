@@ -2,7 +2,7 @@
 
 This repository contains the code accompanying the paper:
 
-> Saiag, V., Baumard, N., Cafiero, F., & Puren, M. (2026). Genre as Cover and Channel:
+> Genre as Cover and Channel:
 > Computational Evidence from Belle Époque Lesbian Writing.
 > *Journal of Cultural Analytics.*
 
@@ -104,20 +104,6 @@ Each subfolder should contain plain text files (.txt), one per work.
         ├── synthese_Q1_{lexicon}.xlsx
         └── synthese_Q1_tous_lexiques.xlsx
 
----
-
-## Citation
-
-If you use this code, please cite:
-
-    @article{saiag2026genre,
-      title   = {Genre as Cover and Channel: Computational Evidence
-                 from Belle {\'E}poque Lesbian Writing},
-      author  = {Saiag, Violette and Baumard, Nicolas and Cafiero, Florian and
-                 Puren, Marie},
-      journal = {Journal of Cultural Analytics},
-      year    = {2026}
-    }
 
 ---
 
